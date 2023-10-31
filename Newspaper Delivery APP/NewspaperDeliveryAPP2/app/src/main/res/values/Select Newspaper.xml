@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="Select_Newspaper">
+        <item>Lankadeepa</item>
+        <item>Dailymirror</item>
+        <item>adha</item>
+        <item>Deshaya</item>
+        <item>sirikatha</item>
+        <item>Bilindu</item>
+    </string-array>
+</resources>
